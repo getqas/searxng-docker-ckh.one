@@ -35,8 +35,8 @@ services:
       - DAC_OVERRIDE
 
   searxng:
-    container_name: searxng
-    image: getqas/searxng-ckh.one:latest
+    container_name: meowsaytounge
+    image: meowsaytounge/searxng:latest
     networks:
       - searxng
     ports:
