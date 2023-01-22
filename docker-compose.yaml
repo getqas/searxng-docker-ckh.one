@@ -36,7 +36,7 @@ services:
 
   searxng:
     container_name: meowsaytounge
-    image: meowsaytounge/searxng:latest
+    image: meowsaytounge/jasonsearch:latest
     networks:
       - searxng
     ports:
