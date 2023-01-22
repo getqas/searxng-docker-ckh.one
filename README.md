@@ -1,6 +1,6 @@
-# searxng-docker
+# JasonSearch -docker
 
-Create a new SearXNG  instance in five minutes using Docker
+Create a new JasonSearch (fork of searxng)  instance in five minutes using Docker
 
 ## What is included ?
 
